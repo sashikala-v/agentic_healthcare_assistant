@@ -1,0 +1,6 @@
+Title: Chronic Kidney Disease Overview
+Source: Educational demo document.
+
+Chronic kidney disease is a long-term condition in which kidney function is reduced. Assessment commonly considers eGFR, urine albumin, blood pressure, diabetes status, medicines, and trends over time.
+
+Management may include blood-pressure control, diabetes management when relevant, medication-safety review, nutrition counseling, kidney-function monitoring, and cardiovascular-risk reduction. A clinician must individualize care.

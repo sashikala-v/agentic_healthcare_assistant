@@ -1,0 +1,11 @@
+[
+  {"question": "Which medicines can slow the progression of chronic kidney disease?",
+   "reference": "ACE inhibitors or ARBs, and SGLT2 inhibitors such as dapagliflozin or empagliflozin.",
+   "key_terms": ["sglt2", "ace inhibitor", "arb"]},
+  {"question": "Which painkillers should be avoided in chronic kidney disease?",
+   "reference": "NSAIDs such as ibuprofen and diclofenac should generally be avoided.",
+   "key_terms": ["nsaid", "ibuprofen"]},
+  {"question": "What are the options when CKD reaches kidney failure?",
+   "reference": "Haemodialysis, peritoneal dialysis, kidney transplantation, or conservative supportive care.",
+   "key_terms": ["dialysis", "transplant"]}
+]
